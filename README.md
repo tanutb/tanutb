@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<b> Currently Interesting On </b>
+- Natural Language Processing (NLP) projects to enhance human-computer interaction.
+- Computer Vision applications for object detection and image classification.
+- Reinforcement Learning algorithms for autonomous decision-making systems.
+
+
