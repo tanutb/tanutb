@@ -19,15 +19,17 @@ Here are some ideas to get you started:
 
 ### Interested and experienced on
 - Natural Language Processing (NLP) projects to enhance human-computer interaction.
+  - LLM
 - Computer Vision applications for object detection and image classification.
   - Object Detection - YOLO, R-CNN
   - Object Tracking - Hungarian Association with KalmanFilter
   - Image classification - ResNet, VGG, or other
   - Fine grained image classification
   - Multiview classification on real world object
+  - Image generation - GAN, Diffusion, VAE or other
 - Reinforcement Learning algorithms for autonomous decision-making systems.
-  - Q Learning & DeepQ Leaning
-  - DDPG, TD3
+  - Q Learning & DeepQ Leaning 
+  - DDPG, TD3 or other
   - or other
 
 ### Framework
